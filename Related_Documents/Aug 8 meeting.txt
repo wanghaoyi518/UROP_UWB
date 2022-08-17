@@ -1,0 +1,10 @@
+写一个document，找到各项参数应该怎么改，给后人看
+把andy和emmett接入GitHub，代码share给他们
+
+接口 uart的问题
+
+wireless和wire倒不是关键，下次clairfy一下
+
+机器人还是电脑上跑
+
+我的：代码如何改anchor和tag；自由发任何讯息
